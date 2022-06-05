@@ -1,4 +1,9 @@
 ### Hello world, I am Vitor Cardoso 👋
+##
+- 🎓 Student at IFSP
+- 💻 Currently learning JavaScript
+
+##
 
 <div align="center">
   <a href="https://github.com/vitorcs1">
