@@ -1,7 +1,7 @@
 ### Hello world, I am Vitor Cardoso 👋
 ##
-- 🎓 Student at IFSP
-- 💻 Currently learning JavaScript
+- 🎓 University student at IFSP - Instituto Federal de São Paulo
+- 💻 Currently learning Java
 
 ##
 
